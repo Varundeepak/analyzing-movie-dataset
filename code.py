@@ -49,7 +49,7 @@ def duplicate_and_unique_movies(dataset, index_):
 
         print('Number of duplicate Movies:',len(duplicate))
         print('\n')
-        print('Examples of dupolicate Movies:',duplicate[:15])
+        print('Examples of duplicate Movies:',duplicate[:15])
     
 
 
